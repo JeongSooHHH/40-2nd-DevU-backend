@@ -24,7 +24,7 @@
 
 | Front-End | Front-End | Front-End | Front-End |
 | :---: | :---: | :---: | :---: |
-| 임우진<br>(Product) | 박나정<br>(Project) | 윤선영 | 허재원 |
+| 임우진<br> | 박나정<br>| 윤선영 | 허재원 |
 
 
 ## 💡적용 기술
