@@ -22,8 +22,8 @@
 
 ### **Front-end Developers**
 
-| Front-End | Front-End | Front-End | Front-End |
-| :---: | :---: | :---: | :---: |
+| Front-End | Front-End | Front-End |
+| :---: | :---: | :---: |
 | 배효빈<br> | 윤선영<br>| 임우진 | 
 
 
