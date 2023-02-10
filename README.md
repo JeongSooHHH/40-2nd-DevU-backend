@@ -3,7 +3,7 @@
 
 
 - 프로젝트 사이트 : DevU
-
+- 데모영상 : https://drive.google.com/file/d/1Ez78BKPQWy_w32n4FiB8bi8l6te_rLIA/view
 
 ## 💡 개발 기간
 
